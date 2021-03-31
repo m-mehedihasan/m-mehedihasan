@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @m-mehedihasan
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mehediatw@gmail.com
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on github
+- 📫 You can reach me through my contact gmail mehediatw@gmail.com
 
 <!---
 m-mehedihasan/m-mehedihasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
